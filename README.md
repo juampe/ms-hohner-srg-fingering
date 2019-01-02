@@ -1,4 +1,4 @@
-# ms-hohner-srg-fingering
+# Hogner Soprano Recorder German (SRG)
 Hogner Soprano Recorder German (SRG) Fingering Plugin for MuseScore 2.x/3.x is a tool to create scores with recorder fingering
 
 *HohnerSopranoRecorder-v1.ttf is a composed font using FontForge font and the master glyph from:
