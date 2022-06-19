@@ -10,7 +10,7 @@ development forum
 Hohner is used only for product identification purposes.
 All trademarks and registered trademarks are the property of their respective owners.
 
-## Instrunctions for Musescore 2.x
+## Instructions for Musescore 2.x
 
 - Unzip Hohner SRG "Hohner SRG Fingering-API-2.x.zip" as a folder into %HOMEPATH%\Documents\MuseScore2\Plugins
 - Enter into the folder created  and dight click on the font HohnerSopranoRecorder-v1.ttf and install it.
@@ -18,7 +18,7 @@ All trademarks and registered trademarks are the property of their respective ow
 - Select notes and run the plugin to insert the fingering glyphs
 *Note that running the plugin add new glyphs, if you run the plugin twice or more it overlaps the old glyph, use it when the partiture it's finished.*
 
-## Instrunctions for Musescore 3.x
+## Instructions for Musescore 3.x
 
 - Unzip Hohner SRG "Hohner SRG Fingering-API-3.x.zip" as a folder into %HOMEPATH%\Documents\MuseScore3\Plugins
 - Enter into the folder created  and dight click on the font HohnerSopranoRecorder-v1.ttf and install it.
